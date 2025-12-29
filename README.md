@@ -19,7 +19,7 @@ Maximálisan optimalizált Python program strain-ek ütemezésére meghatározot
 ### CPU
 - ✅ Times string cache-elés - egyszer számolva, 10x használva
 - ✅ Egyszer parse-olt kezdési idő az `__init__`-ben
-- ✅ Tuple iteráció gyorsabb mint a lista iteráció
+- ✅ Tuple iteráció gyorsabb, mint a lista iteráció
 - ✅ Generator expression a `join`-ban
 - ✅ f-string használata (gyorsabb mint a `.format()`)
 - ✅ Python 3.14 interpreter - ~20% gyorsabb
